@@ -1,0 +1,1 @@
+/home/walck/office/weekschedules/current.txt
